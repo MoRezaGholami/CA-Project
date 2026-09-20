@@ -1,8 +1,7 @@
 # CA-Practical-4042
 
-Welcome to the **Computer Architecture Practical** repository.
+Welcome to the **Computer Architecture Project** repository.
 
-This repository contains hardware design projects and practical implementations developed throughout the Computer Architecture course, with the main project being a fully functional **5-stage Pipelined MIPS Processor with Data Forwarding**.
 
 ---
 
